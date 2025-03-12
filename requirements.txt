@@ -2,3 +2,5 @@ Flask
 tensorflow-cpu
 numpy
 opencv-python
+gunicorn  
+
